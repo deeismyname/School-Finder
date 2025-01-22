@@ -40,6 +40,8 @@ dependencies:
   go_router: ^9.0.2
   http: ^0.13.4
   url_launcher: ^6.1.5
+  meta: ^1.7.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
